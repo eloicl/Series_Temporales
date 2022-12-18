@@ -1,0 +1,1 @@
+Estudio en python de las series temporales de mediciones de temperatura, irradiación y presión atmosférica en la ciudad de Santiago. Incluye estudio de outliers, creación de series temporales, correlaciones, regresión y predicción mediante forecast.
